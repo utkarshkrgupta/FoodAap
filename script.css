@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(8, 113, 109, 0.658);
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(66, 172, 207);
+}
+
+header li{
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header li a{
+    display: block;
+    color: rgb(16, 16, 15);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;   
+}
+
+header li a:hover{
+    background-color: rgb(6, 11, 106);
+}
+
+.text-content a{
+    text-decoration: none;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.images{
+    width: 50%;
+    margin:0 auto;
+}
+
+.labels{
+    margin-left: 240px;
+    margin-bottom: 40px;
+}
+
+.fooditem{
+    width: 500px;
+    height: 500px;
+}
